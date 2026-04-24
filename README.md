@@ -1,4 +1,4 @@
-<p align="left">Hi, I am Jett a.k.a chese.<br>I am a highschool student in California with a passion for programming.</p>
+<p align="left">Hi, I am Jett a.k.a chese.<br>I am a highschool student in California with a passion for programming and electronics.</p>
 
 ###
 
